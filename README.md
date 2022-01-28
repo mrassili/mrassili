@@ -1,1 +1,1 @@
-<p align="center"><a href="https://elianiva.my.id">Website</a> • <a href="https://elianiva.my.id/post">Blog</a> • <a href="https://elianiva.my.id/project">Stuff I Made</a> • <a href="mailto:dicha.arkana03@gmail.com">Email</a> • <a href="https://twitter.com/@elianiva_">Twitter</a></p>
+<p align="center"><a href="http://mrassili.com/">Website</a> • <a href="https://www.freecodecamp.org/news/chrome-extension-with-parcel-tailwind/">Blog</a> • <a href="mailto:marouane.rassili@gmail.com">Email</a> • <a href="https://twitter.com/marouanerassili">Twitter</a></p>
